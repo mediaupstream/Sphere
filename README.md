@@ -1,6 +1,6 @@
 ## Sphere Messages
 
-<!-- ![sphere](https://github.com/mediaupstream.com/Sphere/) -->
+![sphere](https://raw.githubusercontent.com/mediaupstream/Sphere/master/sphere-thumb.jpg)
 
 In Michael Crichtons novel "Sphere", a team of scientists are investigating a wreck on the floor of the Pacific Ocean when they encounter *Jerry*, an alien intelligence. *Jerry* communicates by using a strange spherical encoding... Use this tool to communicate with *Jerry*.
 
